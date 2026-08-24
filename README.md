@@ -1,5 +1,6 @@
 # Desk-Bud
 
+  ![Desk Buddy MVP](images/mvp.jpg)
 
 
 Desk Bud Is a Cute Looking Robot(that doesnt move lol) that sits on your desk and reminds you of your tasks and set important times as alarm.
@@ -13,6 +14,9 @@ Desk Bud Is a Cute Looking Robot(that doesnt move lol) that sits on your desk an
 - lot of wires.
 - Perfboard/breadboard.
 
+
+  ![Desk Buddy Circuit](images/Circuit.jpg)
+ 
 ## Languages And Libraries Used.
 
 
